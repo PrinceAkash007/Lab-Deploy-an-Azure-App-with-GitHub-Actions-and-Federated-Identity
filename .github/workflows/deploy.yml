@@ -16,6 +16,9 @@ on:
 
 env:
   AZURE_WEBAPP_NAME: "app-fedid-z2brwcfc52rwm"
+permissions:
+  id-token: write
+  contents: read
 
 jobs:
   deploy:
