@@ -15,7 +15,7 @@ on:
   workflow_dispatch:
 
 env:
-  AZURE_WEBAPP_NAME: "app-fedid-z2brwcfc52rwm"
+  AZURE_WEBAPP_NAME: "app-fedid-4onn6ak34tg56"
 permissions:
   id-token: write
   contents: read
